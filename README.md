@@ -17,7 +17,7 @@ Introduction
 
 ## ⚙️ Tech-Stack
 
-## 📝 Programming Languages
+## 📝 Programming Languages (Java, Kotlin, JavaScript, Python, Ruby)
 <p>
   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
   <img alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="32"/>
@@ -26,19 +26,19 @@ Introduction
   <img alt="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="32"/>
 </p>
 
-## 🎨 Markup & Styling
+## 🎨 Markup & Styling (HTML, CSS, Sass/SCSS)
 <p>
   <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
   <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
   <img alt="Sass/SCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32"/>
 </p>
 
-## ⚡ Runtimes
+## ⚡ Runtimes (Node.js)
 <p>
   <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
 </p>
 
-## ⚙️ Frameworks & Libraries
+## ⚙️ Frameworks & Libraries (Spring, Hibernate, Ruby on Rails, React, Bootstrap)
 <p>
   <img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32"/>
   <img alt="Hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain-wordmark.svg" height="24"/>
@@ -47,19 +47,19 @@ Introduction
   <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32"/>
 </p>
 
-## 🛠️ Build Tools
+## 🛠️ Build Tools (Maven, Gradle)
 <p>
   <img alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="32"/>
   <img alt="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" height="32"/>   
 </p>
 
-## 💾 Databases & Messaging
+## 💾 Databases & Messaging (PostgreSQL, MongoDB)
 <p>
   <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32"/>
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
 </p>
 
-## 🔧 Tools & Others
+## 🔧 Tools & Others (GIT, Jira, Excel, LibreOffice)
 <p>
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
   <img alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="32"/>
