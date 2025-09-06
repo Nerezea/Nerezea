@@ -71,9 +71,8 @@ Introduction
 
 ## 🧩 Projekte (Auswahl)
 
-* **Projekt A** – Kurze Beschreibung, Tech: Spring Boot, Hibernate, Postgres. [Repo-Link](#)
-* **Projekt B** – Kurze Beschreibung, Tech: Node.js, TS, Docker. [Repo-Link](#)
-* **Projekt C** – Kurze Beschreibung, Tech: React, REST-API. [Repo-Link](#)
+* **Projekt A** – Korean Vocabulary is a small learning app for managing Korean word lists. It uses a simple front end (HTML/CSS/SCSS + vanilla JavaScript modules) and serves data from a local JSON file via a mock API. The goal is to quickly add, view, and manage vocabulary items while keeping the stack lightweight for fast iteration. Tech: React, json, nodemon, mongoose. [Repo-Link](https://github.com/Nerezea/Korean-Vocabulary)
+* **Projekt B** – WWE2k25 Universe Mode is a full-stack application built with Spring Boot (Java) & Hibernate for the backend and React (JavaScript, Vite) for the frontend., Tech: React, Spring Boot, Hibernate, Postgres. [Repo-Link](https://github.com/Nerezea/WWE2k25UniverseMode)
 
 ---
 
