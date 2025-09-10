@@ -81,14 +81,14 @@ Introduction
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nerezea&show_icons=true&locale=en&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nerezea&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=10"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nerezea&show_icons=true&locale=en&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=nerezea&show_icons=true&locale=en&layout=compact&langs_count=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nerezea&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nerezea&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Top languages" />
 </picture>
 
 <p>
